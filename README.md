@@ -23,7 +23,7 @@ Making research software Findable, Accessible, Interoperable, Reusable (FAIR), i
 ## Meeting material
 
 - [codefair-usrse-poster.pdf](codefair-usrse-poster.pdf): pdf of our poster
-- [codefair-usrse-talk.pdf](codefair-usrse-presentation.pdf): pdf slides of our talk
+- [codefair-usrse-presentation.pdf](codefair-usrse-presentation.pdf): pdf slides of our talk
 
 ## Resources
 
