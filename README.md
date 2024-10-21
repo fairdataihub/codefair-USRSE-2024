@@ -1,5 +1,6 @@
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
+
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
@@ -22,8 +23,8 @@ Making research software Findable, Accessible, Interoperable, Reusable (FAIR), i
 
 ## Meeting material
 
-- [codefair-usrse-poster.pdf](codefair-usrse-poster.pdf): pdf of our poster
-- [codefair-usrse-presentation.pdf](codefair-usrse-presentation.pdf): pdf slides of our talk
+- [codefair-usrse-poster.pdf](codefair-usrse-poster.pdf): pdf of our poster. Also available on Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13948350.svg)](https://doi.org/10.5281/zenodo.13948350)
+- [codefair-usrse-presentation.pdf](codefair-usrse-presentation.pdf): pdf slides of our talk. Also available on Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13948381.svg)](https://doi.org/10.5281/zenodo.13948381)
 
 ## Resources
 
